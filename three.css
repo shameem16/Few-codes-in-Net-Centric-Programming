@@ -20,3 +20,11 @@ p.clear {
    width:100%;
    font-family: 'Abhaya Libre';
 }
+
+table {
+  border-collapse: collapse;  border: 1px solid black;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
