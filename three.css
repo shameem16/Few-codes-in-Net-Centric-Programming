@@ -1,0 +1,30 @@
+
+.NW{
+		float: left;
+		width: 50%;
+		 height: 50%
+}
+
+img {
+  float: left;
+}
+
+p.clear {
+  clear: both;
+}
+
+.slideshow-container {
+  position: relative;
+  background:#721628;
+   height:200px;
+   width:100%;
+   font-family: 'Abhaya Libre';
+}
+
+table {
+  border-collapse: collapse;  border: 1px solid black;
+}
+
+table, th, td {
+  border: 1px solid black;  font-family: 'Aladin';font-size: 23px;
+}

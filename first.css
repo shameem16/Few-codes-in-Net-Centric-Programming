@@ -1,0 +1,27 @@
+ 
+
+.NE{
+float: right;
+		width: 50%;
+		 height: 50% ;
+		 
+}
+p::first-line {color:rgba(255, 0, 100, 1);
+  font-variant: small-caps;
+}
+p::first-letter {
+  color: green;  font-family: 'Aclonica';
+}
+
+ p{
+font-style: italic;font-family: 'Aclonica';
+
+font-size: 17px;
+}
+.bold{ font-color: green;
+}
+
+.div li{
+ color: yellow;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
